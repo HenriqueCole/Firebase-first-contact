@@ -1,1 +1,1 @@
-# Firebase-first-contact
+# Starting to configure Firebase database
